@@ -48,7 +48,7 @@ body {
   justify-content: space-between;
   align-items: baseline;
   background-color: var(--white);
-  padding: 1.5rem 11rem 0rem 5rem;
+  padding: 1.5rem 11rem 0rem 7rem;
 }
 .nav__list {
   display: flex;
@@ -193,7 +193,7 @@ body {
 
 .header__info {
   width: 45%;
-  padding-left: 5rem;
+  padding-left: 7rem;
   align-self: flex-start;
   margin-top: 10rem;
 }
@@ -290,7 +290,7 @@ body {
 .features {
   background-color: var(--lightGrayishBlue);
   display: flex;
-  padding: 5rem 8rem 2rem 5rem;
+  padding: 5rem 8rem 2rem 7rem;
   flex-direction: column;
   position: relative;
   top: -250px;
@@ -393,7 +393,7 @@ body {
 
 .articles{
     background-color: var(--veryLightGray);
-      padding: 5rem 8rem 4rem 5rem;
+      padding: 5rem 8rem 4rem 7rem;
       margin-top:-250px;
       ;
 
@@ -484,7 +484,7 @@ body {
 
 .footer {
   background-color: var(--darkBlue);
-  padding: 3rem 11rem 2rem 5rem;
+  padding: 3rem 11rem 2rem 7rem;
   color: var(--white);
   display: grid;
   position: relative;
